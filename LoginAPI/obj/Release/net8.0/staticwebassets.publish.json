@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eYE50xk2YVOc3OGJsAry3+OQSi0APRGXe56CuPTfQ7c=",
+  "Source": "LoginAPI",
+  "BasePath": "_content/LoginAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
